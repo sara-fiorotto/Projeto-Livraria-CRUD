@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria Livrolândia", "Livraria Livrolândia\Livraria Livrolândia.csproj", "{BE168D81-1A6B-44C6-930C-1891627342A0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador Livraria Livrolandia", "Instalador Livraria Livrolandia\Instalador Livraria Livrolandia.vdproj", "{D4D1F704-36A6-48C3-8E0D-B899F1FABFB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE168D81-1A6B-44C6-930C-1891627342A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE168D81-1A6B-44C6-930C-1891627342A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE168D81-1A6B-44C6-930C-1891627342A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE168D81-1A6B-44C6-930C-1891627342A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D1F704-36A6-48C3-8E0D-B899F1FABFB4}.Debug|Any CPU.ActiveCfg = Debug
+		{D4D1F704-36A6-48C3-8E0D-B899F1FABFB4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0BBE95-2B63-4706-8B51-B5B92445DF9B}
+	EndGlobalSection
+EndGlobal

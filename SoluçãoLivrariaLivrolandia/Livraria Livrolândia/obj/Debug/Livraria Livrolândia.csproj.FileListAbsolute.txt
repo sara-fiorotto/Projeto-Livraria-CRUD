@@ -1,0 +1,167 @@
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.exe.config
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.exe
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.pdb
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csprojAssemblyReference.cache
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Menu.resources
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Properties.Resources.resources
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csproj.GenerateResource.cache
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.exe
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.pdb
+C:\Users\LabInfo_2022\source\repos\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.frmCadastroLivro.resources
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.exe.config
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.exe
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.pdb
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csprojAssemblyReference.cache
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.frmCadastroLivro.resources
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Menu.resources
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Properties.Resources.resources
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csproj.GenerateResource.cache
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csproj.CoreCompileInputs.cache
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.exe
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.pdb
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.ConsultarLivros.resources
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\EnvDTE.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\stdole.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.MSXML.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.Relatorio.resources
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csproj.CopyComplete
+D:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Teste.Teste.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.exe.config
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.exe
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.pdb
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\EnvDTE.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\stdole.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Microsoft.MSXML.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csproj.AssemblyReference.cache
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.ConsultarLivros.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Properties.Resources.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Teste.Teste.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csproj.GenerateResource.cache
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csproj.CoreCompileInputs.cache
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.csproj.CopyComplete
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.exe
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.pdb
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.Cadastro.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.RelatorioGeral.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\RdlCompile.cache
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\RdlCompile.compiled
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.RelatorioAgrupado.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.RelatorioInforma.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.RelatorioFiltro.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.Splash.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria_Livrolândia.Forms.Menu.resources
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.exe.manifest
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\bin\Debug\Livraria Livrolândia.application
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.exe.manifest
+E:\Aula_ADS\SoluçãoLivrariaLivrolandia\Livraria Livrolândia\obj\Debug\Livraria Livrolândia.application
