@@ -6,7 +6,7 @@ O sistema foi feito para um trabalho do curso, infelizmente não consegui gerar 
 do programa para facilitar sua funcionalidade, ele é um sistema de controle que possue Cadastros, 
 Consultas, Relatórios e Pesquisas com filtros, integrado ao banco de dados do SQL.
 Sua funcionalidade é simples, a parte mais robusta do programa são os relatórios que existem em diversos modelos. 
-Deixei uma pasta aqui no projeto que você pode verificar as telas programa funcionando!
+Deixei uma pasta (Telas- Sistema Livraria) aqui no projeto que você pode verificar as telas  programa funcionando!
 
 Espero ter introduzido a sua funcionalidade e esclarecido as duvídas sobre do programa.
 Obrigada! :)
