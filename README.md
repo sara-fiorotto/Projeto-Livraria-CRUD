@@ -8,5 +8,5 @@ Consultas, Relatórios e Pesquisas com filtros, integrado ao banco de dados do S
 Sua funcionalidade é simples, a parte mais robusta do programa são os relatórios que existem em diversos modelos. 
 Deixei uma pasta (Telas- Sistema Livraria) aqui no projeto que você pode verificar as telas  programa funcionando!
 
-Espero ter introduzido a sua funcionalidade e esclarecido as duvídas sobre do programa.
-Obrigada! :)
+Obrigada por ter lido até aqui, se quiser me dar umas dicas ou conversar sobre projetos, pode me chamar!
+Espero ter introduzido a sua funcionalidade e esclarecido as duvídas sobre do programa. Obrigada! :)
